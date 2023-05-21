@@ -4,7 +4,6 @@ for _ in range(int(input())):
     N = int(input())
     for i in range(N):
         total+=int(input())
-    print(total)
     if total%N == 0:
         print("YES")
     else:
