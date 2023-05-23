@@ -13,6 +13,6 @@ To finish all the kattis questions
 Current Progress:
 
 Total Questions: 3706
-Solved Questions: 80
+Solved Questions: 91
 
-Progress: 2.158%
+Progress: 2.455%
